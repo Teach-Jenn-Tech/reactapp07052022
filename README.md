@@ -1,5 +1,8 @@
 # Teach Jenn how to Deploy a React App with Vite and Vercel #
 
+![Copy of Teach Jenn Tech (50)](https://user-images.githubusercontent.com/77285384/208341285-be299fd4-17a8-4508-b77a-dee91a5f5ca3.png)
+
+
 Anthony Campolo teaches Jenn how to Deploy a React App with Vite and Vercel. Livestream from  7/5/2022.
 
 In this video, we'll show you how to deploy a React App with Vite and Vercel. Vercel is a fast, scalable and easy-to-use CDN for React. Vite is a distributed web hosting platform that makes it easy to deploy and manage web applications.
