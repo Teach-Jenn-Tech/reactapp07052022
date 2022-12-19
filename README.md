@@ -8,30 +8,32 @@ We'll walk you through the steps needed to deploy a React App with Vite and Verc
 
 Anthony's contact information: https://ajcwebdev.com/
 
-- 00:00:00 
-- 00:00:40 Guest Introduction and Topic
-- 00:02:30 Mention of hashnode: [https://hashnode.com/](https://hashnode.com/)
-- 00:03:06 A bit of Anthony’s journey and the value of being a newb
-- 00:06:50 Africa, Coding Therapist on Twitter: [https://twitter.com/AfricaKenyah](https://twitter.com/AfricaKenyah); [africamincey.com](https://t.co/YrzStvYfQz)
-- 00:08:23 Let’s get started with React, Vite, and Vercel (how to say Vite)
-- 00:11:28 Why React vs Vanilla JS?
-- 00:14:00 Generate project with yarn 
-- 00:15:10 What is terminal? 
-- 00:17:00 yarn create vite
-- 00:19:20 What is CLI? Command Line Interface = Terminal 
-- 00:19:55 The first time “code .” does not work. A forever issue for Jenn 
-- 00:21:46 How to cd (change directory) into created folder
-- 00:25:15 Node Modules, are what?
-- 00:26:00 Run project locally on machine with “yarn dev” in terminal
-- 00:26:18 What is local host?
-- 00:27:16 React App Developer is made, in one click!
-- 00:28:11 SRC Folder to app.jsx
-- 00:32:09 3 functions of a file, import, the component itself, export into another file
-- 00:36:38  upload to git repo (repo.new in browser trick)
-- 00:42:46 [Vercel.com](http://Vercel.com) 
-- 00:46:00 Vercel app
-- 00:49:13 What’s the difference between a webapp and a website? Website is static, webapp is interactive
-- 00:51:40 What is an RSS feed?
+
+
+- [00:00:00](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=0s)
+- [00:00:40 Guest Introduction and Topic](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=40s)
+- [00:02:30 Mention of [hashnode:](https://hashnode.com/)](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=150s)
+- [00:03:06 A bit of Anthony’s journey and the value of being a newb](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=186s)
+- [00:06:50 [Africa, Coding Therapist on Twitter:](https://twitter.com/AfricaKenyah); [africamincey.com](https://t.co/YrzStvYfQz)](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=410s)
+- [00:08:23 Let’s get started with React, Vite, and Vercel (how to say Vite)](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=503s)
+- [00:11:28 Why React vs Vanilla JS?](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=688s)
+- [00:14:00 Generate project with yarn](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=840s)
+- [00:15:10 What is terminal?](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=910s)
+- [00:17:00 yarn create vite](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1020s)
+- [00:19:20 What is CLI? Command Line Interface = Terminal](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1160s)
+- [00:19:55 The first time “code .” does not work. A forever issue for Jenn](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1195s)
+- [00:21:46 How to cd (change directory) into created folder](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1306s)
+- [00:25:15 Node Modules, are what?](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1515s)
+- [00:26:00 Run project locally on machine with “yarn dev” in terminal](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1560s)
+- [00:26:18 What is local host?](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1578s)
+- [00:27:16 React App Developer is made, in one click!](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1636s)
+- [00:28:11 SRC Folder to app.jsx](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1691s)
+- [00:32:09 3 functions of a file, import, the component itself, export into another file](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=1929s)
+- [00:36:38  upload to git repo (repo.new in browser trick)](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=2198s)
+- [00:42:46 [Vercel.com](http://Vercel.com)](00:42:46)
+- [00:46:00 Vercel app](00:46:00)
+- [00:49:13 What’s the difference between a webapp and a website? Website is static, webapp is interactive](https://www.youtube.com/watch?v=bU-zAAd5FyM&t=2953s)
+- [00:51:40 What is an RSS feed?](00:51:40)
 
 ## Tools/Languages/Products used: ##
 
